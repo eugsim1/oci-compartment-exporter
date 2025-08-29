@@ -24,7 +24,7 @@ This Go program lists all compartments in an Oracle Cloud Infrastructure (OCI) t
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/oci-compartment-exporter.git
+git clone https://github.com/xxxxxx/oci-compartment-exporter.git
 cd oci-compartment-exporter
 ````
 
